@@ -6,14 +6,14 @@ setup(
     description="Write for alist V3",
     author="Iamk77",
     author_email="245958742@qq.com",
-    # url="https://github.com/myusername/my_package",
+    url="https://github.com/IamK77/alist_v3",
     packages=find_packages(),
     install_requires=[
         "aiohttp",
     ],
-    #classifiers=[
-    #    "Programming Language :: Python :: 3",
-    #    "License :: OSI Approved :: MIT License",
-    #    "Operating System :: OS Independent",
-    #],
+    classifiers=[
+        "Programming Language :: Python :: 3",
+        "License :: OSI Approved :: Apache Software License 2.0",
+        "Operating System :: OS Independent",
+    ],
 )
