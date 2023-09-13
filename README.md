@@ -7,7 +7,7 @@
 ## 安装
 
 ```bash
-pip install alist_v3
+pip install alist-v3
 ```
 
 ## 使用

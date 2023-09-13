@@ -1,6 +1,7 @@
 __pycache__
 .idea
 .vscode
+.pypirc
 main.py
 alist_v3.egg-info
 build
