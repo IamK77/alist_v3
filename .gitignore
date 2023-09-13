@@ -1,0 +1,6 @@
+__pycache__
+.idea
+.vscode
+main.py
+alist_v3.egg-info
+build
